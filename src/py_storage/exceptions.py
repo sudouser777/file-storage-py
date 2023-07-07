@@ -1,0 +1,6 @@
+class ConfigFileNotFoundError(Exception):
+    ...
+
+
+class ConfigMissingError(Exception):
+    ...
